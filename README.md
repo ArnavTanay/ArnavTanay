@@ -1,16 +1,17 @@
-## Hi there 👋
+I’m a Computer Science student currently focusing on building strong fundamentals in programming and problem solving. I mainly work with Java and Python, and I’m gradually moving from learning concepts to applying them through small, practical projects.
 
-<!--
-**ArnavTanay/ArnavTanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now, I’m spending time on:
+- Data Structures and Algorithms using Java
+- Core programming concepts and clean code practices
+- Machine Learning basics with Python
+- Using Git and GitHub properly to document and track my work
 
-Here are some ideas to get you started:
+This GitHub is a work in progress. You’ll find:
+- Beginner to intermediate Java projects
+- Python scripts and experiments
+- Academic and self-learning projects, improved over time
+- Well-documented repositories as I grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer building things step by step rather than rushing into complex projects. The goal is to understand how things work under the hood and write code that actually makes sense.
+
+More projects coming as I learn and build consistently.
